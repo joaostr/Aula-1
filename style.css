@@ -7,6 +7,10 @@ h3 {
     font-style: oblique;
 }
 
+header {
+    text-align: center;
+}
+
 .imgfinal {
     text-align: center;
 }
@@ -16,5 +20,5 @@ h3 {
 }
 
 p {
-    color: rgb(209, 201, 201);
+    color: rgb(0, 0, 0);
 }
