@@ -1,2 +1,12 @@
-body 
-{background-color: rgba(255, 0, 0, 0.555);}
+body {
+    background-color: rgb(214, 231, 236);
+    text-align: center;
+}
+
+.neymarpagode {
+    font-style: arial;
+}
+
+p {
+    color: rgb(209, 201, 201);
+}
