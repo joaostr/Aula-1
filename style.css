@@ -1,5 +1,13 @@
 body {
     background-color: rgb(214, 231, 236);
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+}
+
+.imgfinal {
     text-align: center;
 }
 
