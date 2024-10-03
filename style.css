@@ -20,13 +20,14 @@ img {
 
 .imgfinal {
     width: 800px;
+    text-align: center;
 }
 
 .neymarpagode {
     font-style: arial;
 }
 
-h3 {
+h3 {.
     text-align: center;
     font-style: oblique;
 }
