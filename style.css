@@ -9,6 +9,10 @@ header {
     text-align: center;
 }
 
+img {
+    height: 200px;
+  }
+
 .img1 {
     width: 300px;
     text-align: left;
